@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
+|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998](http://arxiv.org/abs/2505.16998)|**[link](https://github.com/jiangjin1999/formaleval)**|
+|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997](http://arxiv.org/abs/2505.16997)|null|
+|**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995](http://arxiv.org/abs/2505.16995)|null|
+|**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|**[link](https://github.com/yryangang/rrec)**|
+|**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988](http://arxiv.org/abs/2505.16988)|**[link](https://github.com/masworks/maslab)**|
+|**2025-05-22**|**T1: A Tool-Oriented Conversational Dataset for Multi-Turn Agentic Planning**|Amartya Chakraborty et.al.|[2505.16986](http://arxiv.org/abs/2505.16986)|null|
+|**2025-05-22**|**UFT: Unifying Supervised and Reinforcement Fine-Tuning**|Mingyang Liu et.al.|[2505.16984](http://arxiv.org/abs/2505.16984)|**[link](https://github.com/liumy2010/uft)**|
 |**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446](http://arxiv.org/abs/2505.13446)|null|
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
@@ -73,7 +83,7 @@
 |**2025-04-24**|**INSIGHT: Bridging the Student-Teacher Gap in Times of Large Language Models**|Jarne Thys et.al.|[2504.17677](http://arxiv.org/abs/2504.17677)|null|
 |**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
