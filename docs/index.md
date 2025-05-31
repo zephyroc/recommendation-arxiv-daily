@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|null|
+|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|null|
+|**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729](http://arxiv.org/abs/2505.23729)|null|
+|**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
+|**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
+|**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|null|
+|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|null|
+|**2025-05-29**|**COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents**|Arun Verma et.al.|[2505.23720](http://arxiv.org/abs/2505.23720)|null|
+|**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715](http://arxiv.org/abs/2505.23715)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
