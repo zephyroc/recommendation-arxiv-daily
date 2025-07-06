@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
+|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
+|**2025-07-03**|**LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding**|Yuchen Ma et.al.|[2507.02843](http://arxiv.org/abs/2507.02843)|null|
+|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841](http://arxiv.org/abs/2507.02841)|null|
+|**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822](http://arxiv.org/abs/2507.02822)|null|
+|**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
+|**2025-07-03**|**Learning to Coordinate Bidders in Non-Truthful Auctions**|Hu Fu et.al.|[2507.02801](http://arxiv.org/abs/2507.02801)|null|
 |**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402](http://arxiv.org/abs/2506.22402)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
