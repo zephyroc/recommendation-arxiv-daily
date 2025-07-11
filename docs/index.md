@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful**|Martin Marek et.al.|[2507.07101](http://arxiv.org/abs/2507.07101)|null|
+|**2025-07-09**|**Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning**|Shanle Zheng et.al.|[2507.07064](http://arxiv.org/abs/2507.07064)|null|
+|**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Bruce Coburn et.al.|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
+|**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
+|**2025-07-09**|**Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs**|Yahan Yu et.al.|[2507.06999](http://arxiv.org/abs/2507.06999)|null|
+|**2025-07-09**|**The User-Centric Geo-Experience: An LLM-Powered Framework for Enhanced Planning, Navigation, and Dynamic Adaptation**|Jieren Deng et.al.|[2507.06993](http://arxiv.org/abs/2507.06993)|null|
+|**2025-07-09**|**MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**|Qilong Xing et.al.|[2507.06992](http://arxiv.org/abs/2507.06992)|null|
 |**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
 |**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
 |**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
