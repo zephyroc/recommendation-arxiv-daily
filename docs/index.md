@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation**|Weizhi Zhang et.al.|[2507.13336](http://arxiv.org/abs/2507.13336)|null|
+|**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335](http://arxiv.org/abs/2507.13335)|null|
+|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Zhouqi Hua et.al.|[2507.13332](http://arxiv.org/abs/2507.13332)|null|
+|**2025-07-17**|**GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM**|Kyeongjin Ahn et.al.|[2507.13323](http://arxiv.org/abs/2507.13323)|null|
+|**2025-07-17**|**Boosting Team Modeling through Tempo-Relational Representation Learning**|Vincenzo Marco De Luca et.al.|[2507.13305](http://arxiv.org/abs/2507.13305)|null|
+|**2025-07-17**|**The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations**|Carlos Arriaga et.al.|[2507.13302](http://arxiv.org/abs/2507.13302)|null|
+|**2025-07-17**|**AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research**|Yilun Zhao et.al.|[2507.13300](http://arxiv.org/abs/2507.13300)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
